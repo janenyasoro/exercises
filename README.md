@@ -1,2 +1,0 @@
-# exercises
-Ruby Tutorial Exercises
